@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <!--![vergil_judgement_cut](https://github.com/he11owthere/he11owthere/assets/59949692/52e47265-61f5-49de-876d-3aa2ff9eafc5)<img align="center"/>-->
 <p>
 <!--<img align="center" id="previewImage" class="workshopItemPreviewImageEnlargeable" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=637&amp;imh=358&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="250" height="200">-->
-<img align="center" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" style="display: inline;">
+<img align="center" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="250" height="250" style="display: inline;">
 
 <img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>
 </p>
