@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media.tenor.com/d7wqDJoRHlIAAAAC/vergil-chair.gif)
+![Alt Text](https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif)
 <!--
 <img src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="150" height="150" />
 -->
