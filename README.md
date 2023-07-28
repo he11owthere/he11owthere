@@ -65,12 +65,12 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he11owthere&layout=compact&theme=gotham" alt="he11owthere" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=he11owthere&theme=gotham&show_icons=true" alt="he11owthere" />
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=he11owthere&theme=gotham&show_icons=true" alt="he11owthere" />
 
 <!--<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="300" height="300" />-->
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
 </p>
 
 ---
