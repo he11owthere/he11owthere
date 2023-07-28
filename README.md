@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 <!--<h1 align="center">Hello there 👋, I'm Bhushan Srivastava</h1>
 <h3 align="center">Exploring the Field of AI/ML</h3>-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hello+there!+👋+It's+Bhushan+Srivastava!+👋;Exploring+the+field+of+AI/ML;I'm+currently+into+Deep+learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=ffffff&size=30&lines=Hello+there!+👋;It's+Bhushan+Srivastava!+👋;Exploring+the+field+of+AI/ML;I'm+currently+into+Deep+learning)
 
 - 🔭 I’m currently working on [Ivy](https://github.com/unifyai/ivy)
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently studying **Deep learning**
 
 - 💬 Ask me about **Machine learning, Deep learning and Game development**
 
