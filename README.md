@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!--<img align="left" src="https://media.tenor.com/D2vItfmaUnIAAAAd/vergil-speakers.gif" width="900" height="450">-->
 <!--![Alt Text](https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif)
 +<img align="right" src="/art/sample.gif?raw=true" width="200px">-->
-![vergil_judgement_cut](https://github.com/he11owthere/he11owthere/assets/59949692/52e47265-61f5-49de-876d-3aa2ff9eafc5)
+![vergil_judgement_cut](https://github.com/he11owthere/he11owthere/assets/59949692/52e47265-61f5-49de-876d-3aa2ff9eafc5)<img align="center"/>
 
 <img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>
 
