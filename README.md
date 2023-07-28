@@ -98,8 +98,8 @@ Here are some ideas to get you started:
 <p>
 
 <!--<img align = right style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://static.wikia.nocookie.net/the-demonic-paradise/images/0/0f/LOL_CMS_199_Article_03_q9ktvokvfm3yh9gp0tqc.gif/revision/latest?cb=20220401230514" width="981" height="461">-->
-<img align=center alt="dante.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="450" height="225"> 
-<img align=right alt="dante1.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante1.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="450" height="225">
+<img align=center alt="dante.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="425" height="225"> 
+<img align=right alt="dante1.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante1.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="425" height="225">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
