@@ -102,4 +102,5 @@ Here are some ideas to get you started:
 <img align=right alt="dante1.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante1.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="422" height="225">
 </p>
 
+![Snake animation](https://github.com/he11owthere/he11owthere/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
