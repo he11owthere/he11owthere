@@ -65,7 +65,10 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he11owthere&layout=compact&theme=gotham" alt="he11owthere" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=he11owthere&theme=gotham&show_icons=true" alt="he11owthere" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=he11owthere&theme=gotham&show_icons=true" alt="he11owthere" />
+  ![vergil_judgement_cut](https://github.com/he11owthere/he11owthere/assets/59949692/73f5944e-925d-4d16-997e-8baba298ac11)
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" /></p>
 
