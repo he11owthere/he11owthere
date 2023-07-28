@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alt Text](https://tenor.com/view/vergil-speakers-ryan5gediche-dmc-dmc5-gif-21059231)
+![Alt Text](https://media.tenor.com/D2vItfmaUnIAAAAd/vergil-speakers.gif)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=he11owthere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
