@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there 👋, I'm Bhushan Srivastava</h1>
 <h3 align="center">Exploring the Field of AI/ML</h3>
+
 ![Alt Text](https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif)
+
 - 🔭 I’m currently working on [Ivy](https://github.com/unifyai/ivy)
 
 - 🌱 I’m currently learning **Deep learning**
