@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <!--![Alt Text](https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif)
 +<img align="right" src="/art/sample.gif?raw=true" width="200px">-->
 <!--![vergil_judgement_cut](https://github.com/he11owthere/he11owthere/assets/59949692/52e47265-61f5-49de-876d-3aa2ff9eafc5)<img align="center"/>-->
-<img align="center" id="previewImage" class="workshopItemPreviewImageEnlargeable" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=637&amp;imh=358&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
+<img align="center" id="previewImage" class="workshopItemPreviewImageEnlargeable" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=637&amp;imh=358&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="100" height="100">
 
 <img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>
 
