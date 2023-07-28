@@ -95,7 +95,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=he11owthere&icon=0&color=0)](https://visitcount.itsvg.in)
 <p>
 
-<img align = right style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://static.wikia.nocookie.net/the-demonic-paradise/images/0/0f/LOL_CMS_199_Article_03_q9ktvokvfm3yh9gp0tqc.gif/revision/latest?cb=20220401230514" width="981" height="461">
+<!--<img align = right style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://static.wikia.nocookie.net/the-demonic-paradise/images/0/0f/LOL_CMS_199_Article_03_q9ktvokvfm3yh9gp0tqc.gif/revision/latest?cb=20220401230514" width="981" height="461">-->
+<img src="https://64.media.tumblr.com/1bc82b1a503e67e1dc7379c7d09b62c1/47be98610dac6e69-9f/s640x960/a85106d6057fba1967c77b834cfad7f3a0f12af1.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 567px; height: 262px; margin: 0px; width: 465px;" alt="WEISS › : 𝐃𝐚𝐧𝐭𝐞 | 𝐚𝐧𝐢𝐦𝐞 𝐃𝐄𝐕𝐈𝐋 𝐌𝐀𝐘 𝐂𝐑𝐘 (𝟐𝟎𝟎𝟕)" jsname="kn3ccd" data-iml="66452.79999999702">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
