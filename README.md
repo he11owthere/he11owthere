@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 
 <!--
-<img src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="150" height="150" />
+<img img align="center" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="150" height="150" />
 
+![Alt Text](https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=he11owthere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there 👋, I'm Bhushan Srivastava</h1>
 <h3 align="center">Exploring the Field of AI/ML</h3>
 
-  ![Alt Text](https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif)
+<img img align="center" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="150" height="150" />
 
 - 🔭 I’m currently working on [Ivy](https://github.com/unifyai/ivy)
 
