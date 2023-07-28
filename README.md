@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img align="center" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="290" height="240" style="display: inline;">
 
 <!--<img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>-->
-<img align="right" src="https://media.tenor.com/b5g0u-gHQ9EAAAAd/vergil-loud-music.gif" width="518" height="291.375" alt="Vergil Loud Music GIF - Vergil Loud Music Dmc5 GIFs" style="max-width: 518px;">
+<img align="right" src="https://media.tenor.com/D2vItfmaUnIAAAAd/vergil-speakers.gif" width="518" height="291.375" alt="Vergil Speakers GIF - Vergil Speakers Ryan5gediche GIFs" >
 </p>
 
 <h3 align="left">Connect with me:
