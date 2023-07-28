@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there 👋, I'm Bhushan Srivastava</h1>
 <h3 align="center">Exploring the Field of AI/ML</h3>
 
-
-<img img align="center" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif" width="700" height="300" />
-
-
 - 🔭 I’m currently working on [Ivy](https://github.com/unifyai/ivy)
 
 - 🌱 I’m currently learning **Deep learning**
@@ -45,6 +41,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Machine learning, Deep learning and Game development**
 
 - 📫 How to reach me **bhushansrivastava2001@gmail.com**
+
+
+<img img align="center" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif" width="700" height="300" />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
