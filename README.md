@@ -50,11 +50,13 @@ Here are some ideas to get you started:
 +<img align="right" src="/art/sample.gif?raw=true" width="200px">-->
 <!--![vergil_judgement_cut](https://github.com/he11owthere/he11owthere/assets/59949692/52e47265-61f5-49de-876d-3aa2ff9eafc5)<img align="center"/>-->
 <p>
+![vergil-speakers](https://github.com/he11owthere/he11owthere/assets/59949692/9611ba30-6aaa-4f98-b615-ec0603bfee4c)
 <!--<img align="center" id="previewImage" class="workshopItemPreviewImageEnlargeable" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=637&amp;imh=358&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="250" height="200">-->
-<img align="center" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="290" height="240" style="display: inline;">
+<img align="right" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="290" height="240" style="display: inline;">
 
 <!--<img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>-->
-<video width="518" height="518" loop="" autoplay="true" preload="auto" playsinline="true" style="max-width: 518px;"><source src="https://media.tenor.com/b5g0u-gHQ9EAAAPo/vergil-loud-music.mp4" type="video/mp4"><source src="https://media.tenor.com/b5g0u-gHQ9EAAAPs/vergil-loud-music.webm" type="video/webm"></video>
+
+
 </p>
 
 <h3 align="left">Connect with me:
