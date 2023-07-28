@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif)
+![Alt Text](https://media.tenor.com/D2vItfmaUnIAAAAd/vergil-speakers.gif)
 <!--
 <img src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="150" height="150" />
 -->
