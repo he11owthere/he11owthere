@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bhushansrivastava2001@gmail.com**
 
 
-<img img align="center" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif" width="700" height="300" />
+<img img align="center" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif" width="900" height="470" />
 
 
 <h3 align="left">Connect with me:</h3>
