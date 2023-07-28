@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
+<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="500" height="120" />
 <p align="left">
 <a href="https://linkedin.com/in/bhushan-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan-srivastava" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhushansrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhushansrivastava" height="30" width="40" /></a>
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
 <!--<a href="https://www.codechef.com/users/he11owthere" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="he11owthere" height="30" width="40" /></a>
 -->
 <a href="https://www.leetcode.com/he11owthere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="he11owthere" height="30" width="40" /></a>
-<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="500" height="120" />
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
