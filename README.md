@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Alt Text](https://media.tenor.com/D2vItfmaUnIAAAAd/vergil-speakers.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.tenor.com/D2vItfmaUnIAAAAd/vergil-speakers.gif" width="40" height="40" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=he11owthere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
