@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=he11owthere&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 
----
-[![](https://visitcount.itsvg.in/api?id=he11owthere&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hello there 👋, I'm Bhushan Srivastava</h1>
 <h3 align="center">Exploring the Field of AI/ML</h3>
 
@@ -60,5 +59,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=he11owthere&show_icons=true&locale=en" alt="he11owthere" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&" alt="he11owthere" /></p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=he11owthere&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
