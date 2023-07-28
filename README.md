@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
-<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="500" height="120" />
+<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="500" height="320" />
 <p align="left">
 <a href="https://linkedin.com/in/bhushan-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhushan-srivastava" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhushansrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bhushansrivastava" height="30" width="40" /></a>
