@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=he11owthere&theme=gotham&show_icons=true" alt="he11owthere" />
 
-<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="380" height="380" />
+<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="300" height="300" />
 
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
