@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 
 <p><img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="380" height="380" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
 </p>
 
 ---
