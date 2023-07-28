@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello there 👋, I'm Bhushan Srivastava</h1>
 <h3 align="center">Exploring the Field of AI/ML</h3>
 
-<img img align="center" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="150" height="150" />
+<img img align="center" src="(https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif" width="150" height="150" />
 
 - 🔭 I’m currently working on [Ivy](https://github.com/unifyai/ivy)
 
