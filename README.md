@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 <!--<img align="center" id="previewImage" class="workshopItemPreviewImageEnlargeable" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=637&amp;imh=358&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="250" height="200">-->
 <img align="center" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="290" height="240" style="display: inline;">
 
-<img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>
+<!--<img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>-->
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://media.tenor.com/b5g0u-gHQ9EAAAAd/vergil-loud-music.gif">
 </p>
 
 <h3 align="left">Connect with me:
