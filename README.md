@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Alt Text](https://media.tenor.com/D2vItfmaUnIAAAAd/vergil-speakers.gif)
+![Alt Text](https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif)
+<!--
 <img src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="150" height="150" />
+-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=he11owthere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
