@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="350" height="375" />
 
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
+  &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
 </p>
 
 ---
