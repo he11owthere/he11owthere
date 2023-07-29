@@ -83,7 +83,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he11owthere&layout=compact&theme=gotham" alt="he11owthere" />
 <!--<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="290" height="375" />-->
-<img img align="right" src="https://media.tenor.com/8Pc46MYSyKQAAAAC/vergilsmile-vergil.gif" width="263" height="397" />
+<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="263" height="397" />
+<!--<img img align="right" src="https://media.tenor.com/8Pc46MYSyKQAAAAC/vergilsmile-vergil.gif" width="263" height="397" />-->
 <img align="right" alt="[gif] DMC5 Vergil" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e11f3286-6d58-46d0-bb87-df57a3630762/dd8nuxg-fe3eadf9-c22e-4232-9f8c-bf579bf8e32a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMWYzMjg2LTZkNTgtNDZkMC1iYjg3LWRmNTdhMzYzMDc2MlwvZGQ4bnV4Zy1mZTNlYWRmOS1jMjJlLTQyMzItOWY4Yy1iZjU3OWJmOGUzMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vaf8I0xQ8rYaSwFDdV5VsmUpienRgcYVUh4eBJZvFo8" srcset="" sizes="" style="width:170px;height:170px" 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=he11owthere&theme=gotham&show_icons=true" alt="he11owthere" />
