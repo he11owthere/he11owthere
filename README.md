@@ -101,6 +101,8 @@ Here are some ideas to get you started:
 <!--<img align = right style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://static.wikia.nocookie.net/the-demonic-paradise/images/0/0f/LOL_CMS_199_Article_03_q9ktvokvfm3yh9gp0tqc.gif/revision/latest?cb=20220401230514" width="981" height="461">-->
 <img align=center alt="dante.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="422" height="225"> 
 <img align=right alt="dante1.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante1.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="422" height="225">
+
+<img align="center" src="https://i.pinimg.com/originals/fb/7e/c5/fb7ec5d4cb719e9c1eb26084ae56275f.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" width="900" height="450">
 </p>
 
 <!--![Snake animation](https://github.com/he11owthere/he11owthere/blob/output/github-contribution-grid-snake.svg)
