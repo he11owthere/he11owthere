@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Connect with me:
-  <img align="right" alt="[gif] DMC5 Dante" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e11f3286-6d58-46d0-bb87-df57a3630762/dd8nuoa-4c1b355d-1c6c-4683-b6fc-69c23b6d01cd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMWYzMjg2LTZkNTgtNDZkMC1iYjg3LWRmNTdhMzYzMDc2MlwvZGQ4bnVvYS00YzFiMzU1ZC0xYzZjLTQ2ODMtYjZmYy02OWMyM2I2ZDAxY2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6IKCraHT6ecWd7xNUDozCY6ZA1Pt2Dz1hKs5QdqQc7w" srcset="" sizes="" style="width:200px;height:200px" fetchpriority="high">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="right" alt="[gif] DMC5 Dante" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e11f3286-6d58-46d0-bb87-df57a3630762/dd8nuoa-4c1b355d-1c6c-4683-b6fc-69c23b6d01cd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMWYzMjg2LTZkNTgtNDZkMC1iYjg3LWRmNTdhMzYzMDc2MlwvZGQ4bnVvYS00YzFiMzU1ZC0xYzZjLTQ2ODMtYjZmYy02OWMyM2I2ZDAxY2QuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.6IKCraHT6ecWd7xNUDozCY6ZA1Pt2Dz1hKs5QdqQc7w" srcset="" sizes="" style="width:200px;height:200px" fetchpriority="high">
 </h3>
 <!--<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="380" height="380" />-->
 
