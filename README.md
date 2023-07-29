@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!--<img align="center" alt="vergil-speakers.gif" src="https://github.com/he11owthere/he11owthere/blob/main/vergil-speakers.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">-->
 <img align = "center" alt="vergil-speakers_hd.gif" src="https://github.com/he11owthere/he11owthere/blob/main/vergil-speakers_hd.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="900" height="450">
 
-<img align="right" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="290" height="259" style="display: inline;">
+<img align="right" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="275" height="259" style="display: inline;">
 
 <!--<img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>-->
 
@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he11owthere&layout=compact&theme=gotham" alt="he11owthere" />
 <!--<img img align="right" src="https://media.tenor.com/QifzTv3pRLkAAAAC/dmc5.gif" width="290" height="375" />-->
-<img img align="right" src="https://media.tenor.com/8Pc46MYSyKQAAAAC/vergilsmile-vergil.gif" width="290" height="397" />
+<img img align="right" src="https://media.tenor.com/8Pc46MYSyKQAAAAC/vergilsmile-vergil.gif" width="275" height="397" />
 <img align="right" alt="[gif] DMC5 Vergil" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e11f3286-6d58-46d0-bb87-df57a3630762/dd8nuxg-fe3eadf9-c22e-4232-9f8c-bf579bf8e32a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMWYzMjg2LTZkNTgtNDZkMC1iYjg3LWRmNTdhMzYzMDc2MlwvZGQ4bnV4Zy1mZTNlYWRmOS1jMjJlLTQyMzItOWY4Yy1iZjU3OWJmOGUzMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vaf8I0xQ8rYaSwFDdV5VsmUpienRgcYVUh4eBJZvFo8" srcset="" sizes="" style="width:170px;height:170px" 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=he11owthere&theme=gotham&show_icons=true" alt="he11owthere" />
 
 <!--<img align="right" alt="[gif] DMC5 Vergil" aria-hidden="true" class="TZM0T" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e11f3286-6d58-46d0-bb87-df57a3630762/dd8nuxg-fe3eadf9-c22e-4232-9f8c-bf579bf8e32a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2UxMWYzMjg2LTZkNTgtNDZkMC1iYjg3LWRmNTdhMzYzMDc2MlwvZGQ4bnV4Zy1mZTNlYWRmOS1jMjJlLTQyMzItOWY4Yy1iZjU3OWJmOGUzMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vaf8I0xQ8rYaSwFDdV5VsmUpienRgcYVUh4eBJZvFo8" srcset="" sizes="" style="width:200px;height:200px" fetchpriority="high">-->
-<img align="right" src="https://thumbs.gfycat.com/QuarterlyFrigidAmericancrayfish-size_restricted.gif" width="290" height="193">
+<img align="right" src="https://thumbs.gfycat.com/QuarterlyFrigidAmericancrayfish-size_restricted.gif" width="275" height="193">
 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=he11owthere&&theme=dark" alt="he11owthere" />
   
