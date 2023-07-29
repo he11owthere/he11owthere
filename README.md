@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!--<img align="center" alt="vergil-speakers.gif" src="https://github.com/he11owthere/he11owthere/blob/main/vergil-speakers.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">-->
 <img align = "center" alt="vergil-speakers_hd.gif" src="https://github.com/he11owthere/he11owthere/blob/main/vergil-speakers_hd.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="900" height="450">
 
-<img align="right" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="290" height="260" style="display: inline;">
+<img align="right" id="enlarged_image_carousel" src="https://steamuserimages-a.akamaihd.net/ugc/1847035847596743878/9CF69C45FBFF495C8EA29FA046C6313BF516092B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="290" height="255" style="display: inline;">
 
 <!--<img img align="right" src="https://media.tenor.com/7NZdYNzQosgAAAAC/devil-may-cry-vergil-speaker-bury-the-light-strom.gif"/>-->
 
