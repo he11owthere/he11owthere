@@ -96,10 +96,10 @@ Here are some ideas to get you started:
 
 ---
 <p>
-<img align="center" src="https://64.media.tumblr.com/fa49d875b26c3494d309f1eced0fd780/tumblr_p0hrypyC651wio14so1_540.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" width="422" height="225">
+<img align=center alt="dante.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="422" height="225"> 
 <img align="right" alt="dante2.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante2.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="422" height="225">
 <!--<img align = right style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://static.wikia.nocookie.net/the-demonic-paradise/images/0/0f/LOL_CMS_199_Article_03_q9ktvokvfm3yh9gp0tqc.gif/revision/latest?cb=20220401230514" width="981" height="461">-->
-<img align=center alt="dante.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="422" height="225"> 
+<img align="center" src="https://64.media.tumblr.com/fa49d875b26c3494d309f1eced0fd780/tumblr_p0hrypyC651wio14so1_540.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" width="422" height="225">
 <img align=right alt="dante1.gif" src="https://github.com/he11owthere/he11owthere/blob/main/dante1.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="422" height="225">
 
 <img align="center" src="https://i.redd.it/nia1x4l1onp51.gif" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" width="900" height="450">
